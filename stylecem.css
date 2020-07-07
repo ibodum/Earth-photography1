@@ -1,7 +1,10 @@
 body {font-family: "Times New Roman", Georgia, Serif;}
 h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display";
-  letter-spacing: 4px;
+  letter-spacing: 3px;
+}
+p{
+  letter-spacing: 2px;
 }
 
 .animate__animated.animate__flip{
