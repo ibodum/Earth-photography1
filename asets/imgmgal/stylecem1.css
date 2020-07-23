@@ -5,86 +5,87 @@ h1, h2, h3, h4, h5, h6 {
 }
 .gallerya{
 	text-align: center;
-	 //*border:1px solid #444;*//
+	 /*border:1px solid #444;*/
 	width: 100%;
 	margin-top: 50px;
 	font-size: 50px;
 }
 
 .gal-tile1{
-  height: 350px;
+  height: 550px;
   width: 100%;
   margin-bottom: 15px;
   position: relative;
   border: 2px solid #444;
   overflow: hidden;
-  background: url('photo1.jpg') no-repeat;
-  background-position: center;
+ background: url(nature.jpg) center; 
+ background-size:cover;
+  
 }
 .gal-tile1:hover{
   box-shadow: 0 1px 5px 1px #444;
 }
 .gal-tile2{
-  height: 350px;
+  height: 550px;
   width: 100%;
   margin-bottom: 15px;
   position: relative;
   border: 2px solid #444;
   overflow: hidden;
-  background: url('photo2.jpg') no-repeat;
-  background-position: center;
+ background: url(street.jpg) center; 
+ background-size:cover;
 }
 .gal-tile2:hover{
   box-shadow: 0 1px 5px 1px #444;
 }
 .gal-tile3{
-  height: 350px;
+   height: 550px;
   width: 100%;
   margin-bottom: 15px;
   position: relative;
   border: 2px solid #444;
   overflow: hidden;
-  background: url('photo3.jpg') no-repeat;
-  background-position: center;
+ background: url(children.jpg) center; 
+ background-size:cover;
 }
 .gal-tile3:hover{
   box-shadow: 0 1px 5px 1px #444;
 }
 .gal-tile4{
-  height: 350px;
+   height: 550px;
   width: 100%;
   margin-bottom: 15px;
   position: relative;
   border: 2px solid #444;
   overflow: hidden;
-  background: url('photo4.jpg') no-repeat;
-  background-position: center;
+ background: url(feelgood.jpg) center; 
+ background-size:cover;;
 }
 .gal-tile4:hover{
   box-shadow: 0 1px 5px 1px #444;
 }
 .gal-tile5{
-  height: 350px;
+   height: 550px;
   width: 100%;
   margin-bottom: 15px;
   position: relative;
   border: 2px solid #444;
   overflow: hidden;
-  background: url('photo1.jpg') no-repeat;
-  background-position: center;
+ background: url(cheers.jpg) center; 
+ background-size:cover;
 }
 .gal-tile5:hover{
   box-shadow: 0 1px 5px 1px #444;
 }
 .gal-tile6{
-  height: 350px;
+ height: 550px;
   width: 100%;
   margin-bottom: 15px;
   position: relative;
   border: 2px solid #444;
   overflow: hidden;
-  background: url('photo2.jpg') no-repeat;
-  background-position: center;
+ background: url(cottage.jpg) center; 
+ background-size:cover;
 }
 .gal-tile6:hover{
   box-shadow: 0 1px 5px 1px #444;
